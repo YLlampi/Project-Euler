@@ -1,1 +1,3 @@
-# ProjectEuler2021
+# Project Euler
+* Exercises of the site:
+  [Project Euler](https://projecteuler.net/archives).
